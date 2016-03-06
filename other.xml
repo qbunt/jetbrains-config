@@ -58,13 +58,13 @@
         <TrelloBoard id="541e1880e54223933f35ffec" name="Personal" />
       </option>
       <option name="currentList">
-        <TrelloList id="54285dbc186c375c8cd79d8e" name="Incoming" />
+        <TrelloList id="ILLEGAL_ID" name="-- from all lists --" />
       </option>
       <option name="currentUser">
         <TrelloUser id="524469eebae9575c1f005931" name="jeremybunting" />
       </option>
       <password>dfcedfc8df9fdfccdfcedfcfdf98df9fdf98df93df9cdf9ddfcedf93dfc8dfc8df9cdf9fdf9edf9cdf9bdfcedfcedf92df9fdf9bdfc9df98dfc8dfcfdfc8df9cdf9ddf9bdf93dfc9dfcbdf9edf92df9adfcedf9fdf92dfc8df9cdf98df9adfcedf98df9ddf9edfcedf9fdfcbdfcfdf9cdfccdf9cdfcfdf9adf9ddf93dfccdfcc</password>
-      <option name="includeAllCards" value="false" />
+      <option name="includeAllCards" value="true" />
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
@@ -74,5 +74,19 @@
       <option name="useProxy" value="false" />
       <username />
     </Trello>
+    <JIRA shared="true" url="http://deutsch.jira.com">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>df9fdf9edf9fdf9edfe8dfcfdfcfdfdedfc2dfc5dfdcdfcfdfc4</password>
+      <option name="jiraVersion" value="7.2.0-OD-03-010" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>jeremy.bunting</username>
+    </JIRA>
   </component>
 </application>
