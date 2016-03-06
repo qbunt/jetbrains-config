@@ -54,12 +54,8 @@
   <component name="RecentTaskRepositories">
     <Trello shared="true">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="currentBoard">
-        <TrelloBoard id="541e1880e54223933f35ffec" name="Personal" />
-      </option>
-      <option name="currentList">
-        <TrelloList id="ILLEGAL_ID" name="-- from all lists --" />
-      </option>
+      <option name="currentBoard" />
+      <option name="currentList" />
       <option name="currentUser">
         <TrelloUser id="524469eebae9575c1f005931" name="jeremybunting" />
       </option>
