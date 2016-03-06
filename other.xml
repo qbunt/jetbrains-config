@@ -68,7 +68,7 @@
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="shouldFormatCommitMessage" value="true" />
       <option name="url" value="https://api.trello.com" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
