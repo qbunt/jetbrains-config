@@ -70,6 +70,20 @@
       <option name="useProxy" value="false" />
       <username />
     </Trello>
+    <Gitlab shared="true" url="https://gitlab.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <GitlabProject id="-1" />
+      </option>
+      <password>dfd0dfdbdfd9dfccdfe7dfe1dfe1dfc4dfcddfebdfcfdff0dfc0df93dfdedfecdfc8df92dfc5dfc8</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Gitlab>
     <JIRA shared="true" url="http://deutsch.jira.com">
       <option name="apiType" value="REST_2_0" />
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
