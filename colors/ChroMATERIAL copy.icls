@@ -1,9 +1,9 @@
 <scheme name="ChroMATERIAL copy" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Hack" />
+  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8fa859" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
