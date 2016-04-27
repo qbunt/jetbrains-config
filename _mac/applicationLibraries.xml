@@ -22,6 +22,18 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="node modules" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="node_modules" />
+        <sourceFilesUrls>
+          <item url="file:///usr/local/lib/node_modules" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/node_modules" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="node-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
