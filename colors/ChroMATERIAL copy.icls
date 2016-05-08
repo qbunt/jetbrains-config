@@ -8,8 +8,9 @@
     <option name="EDITOR_FONT_NAME" value="Hack" />
     <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Anonymous Pro for Powerline" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro for Powerline" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8fa859" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
