@@ -1,13 +1,21 @@
 <scheme name="Material Theme - Default copy" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Hack" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
