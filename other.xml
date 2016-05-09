@@ -49,12 +49,14 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/opt/boxen/nodenv/shims/node" />
-    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="4.4.3" last-modified="1461511190000" />
+    </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/4.1.1/bin/node" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.4.1" last-modified="1454628742000" />
-    <node-interpreter path="/usr/local/Cellar/node/4.1.1/bin/node" version="(Does not exist)" last-modified="1457302959282" />
+    <node-interpreter path="/usr/local/bin/node" version="4.4.3" last-modified="1461511190000" />
+    <node-interpreter path="/usr/local/Cellar/node/4.1.1/bin/node" version="4.1.1" last-modified="1443017101000" />
   </component>
   <component name="RecentTaskRepositories">
     <Trello shared="true">
