@@ -1,8 +1,8 @@
 <scheme name="ChroMATERIAL copy" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Hack" />
@@ -10,7 +10,6 @@
   </font>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro for Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8fa859" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
