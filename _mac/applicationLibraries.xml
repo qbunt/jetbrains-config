@@ -33,37 +33,14 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="jasmine-DefinitelyTyped" type="javaScript">
+    <library name="jasmine-matchers-DefinitelyTyped" type="javaScript">
       <properties>
-        <option name="frameworkName" value="node_modules" />
         <sourceFilesUrls>
-          <item url="file:///usr/local/lib/node_modules/jasmine-core/lib" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jasmine-matchers_jasmine-matchers.d.ts" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file:///usr/local/lib/node_modules/jasmine-core/lib" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="jasmine-expect-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jasmine-expect_jasmine-expect.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jasmine-expect_jasmine-expect.d.ts" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="karma-jasmine" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file:///usr/local/lib/node_modules/karma-jasmine" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file:///usr/local/lib/node_modules/karma-jasmine" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jasmine-matchers_jasmine-matchers.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
