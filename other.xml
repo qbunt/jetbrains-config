@@ -56,7 +56,7 @@
     <local-interpreter path="/usr/local/Cellar/node/4.1.1/bin/node" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="4.4.3" last-modified="1461511190000" />
+    <node-interpreter path="/usr/local/bin/node" version="4.1.1" last-modified="1443017101000" />
     <node-interpreter path="/usr/local/Cellar/node/4.1.1/bin/node" version="4.1.1" last-modified="1443017101000" />
   </component>
   <component name="RecentTaskRepositories">
