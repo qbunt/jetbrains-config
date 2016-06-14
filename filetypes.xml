@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern=".stub" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
