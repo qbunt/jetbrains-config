@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Cactus serve" description="Cactus serve - serve a local build of a Cactus project" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" />
+      <option name="PARAMETERS" value="serve" />
+      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
+    </exec>
+  </tool>
+  <tool name="Cactus build" description="Cactus build - Build a Cactus project" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" />
+      <option name="PARAMETERS" value="build" />
+      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
+    </exec>
+  </tool>
+</toolSet>
