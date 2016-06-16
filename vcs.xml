@@ -3,11 +3,15 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:qbunt/vagrant-ansible-testbed.git" />
+          <option name="url" value="git@github.com:qbunt/toothpick.js.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:GetStream/stream-react-example.git" />
+          <option name="url" value="git@github.com:shockone/black-screen.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:nylas/N1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
