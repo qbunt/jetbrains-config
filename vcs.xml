@@ -15,7 +15,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:zeit/hyperterm.git" />
+          <option name="url" value="git@github.com:sindresorhus/anatine.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
