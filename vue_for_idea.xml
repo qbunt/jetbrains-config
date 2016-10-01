@@ -1,0 +1,5 @@
+<application>
+  <component name="Vue">
+    <option name="nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.3.1/bin/node" />
+  </component>
+</application>
