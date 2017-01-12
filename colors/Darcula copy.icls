@@ -1,0 +1,13 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-01-12T11:03:47</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2017-01-12T11:04:04</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
+</scheme>
