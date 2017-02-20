@@ -57,7 +57,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/.nvm/versions/node/v6.9.1/bin/babel" />
+      <option name="program" value="$USER_HOME$/git/toothpick.js/node_modules/babel-cli/bin/babel.js" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ContentRoot$" />
