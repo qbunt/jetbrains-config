@@ -14,6 +14,7 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
