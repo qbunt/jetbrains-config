@@ -4,20 +4,18 @@
     <property name="created">2017-01-17T10:45:54</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-23T17:04:43</property>
+    <property name="modified">2017-03-25T20:58:57</property>
     <property name="originalScheme">_@user_Material Theme - Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
