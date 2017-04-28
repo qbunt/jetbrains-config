@@ -4,8 +4,11 @@
       <mapping ext="mp4" type="Native" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
+      <mapping pattern="86e87c3e-f7ee-4040-b538-9f50d0d2e943" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="start" type="PLAIN_TEXT" />
