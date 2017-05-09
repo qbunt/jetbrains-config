@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/Convert arrow function to shorthand arrow function" />
-  </component>
-</application>
