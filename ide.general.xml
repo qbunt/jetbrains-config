@@ -8,5 +8,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.tooltip.initialDelay" value="719" />
     <entry key="ide.ssh.one.time.password" value="true" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
