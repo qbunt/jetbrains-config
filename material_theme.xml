@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="selectedTheme" value="DARKER" />
+    <option name="isContrastMode" value="true" />
   </component>
 </application>
