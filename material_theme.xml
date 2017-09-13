@@ -1,8 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="PALENIGHT" />
-    <option name="isContrastMode" value="true" />
-    <option name="isMaterialDesign" value="false" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="accentColor" value="ff7042" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="50" />
