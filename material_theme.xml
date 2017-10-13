@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="ff7042" />
+    <option name="accentColor" value="c6ff00" />
+    <option name="hideFileIcons" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
