@@ -3,7 +3,7 @@
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="c6ff00" />
-    <option name="wallpaperSet" value="false" />
+    <option name="wallpaper" value="" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="30" />
     <option name="isCompactStatusBar" value="true" />
